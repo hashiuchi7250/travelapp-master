@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Page Transitions Travelapp
 
 This demo shows an example of how to achieve native-like page transitions on the web. There's much to be improved here- it's not meant to be a full-fledged web application, just a quick demo to show how this kind of implementation could theoretically work. These concepts can and should be expressed differently in your own application, the sky's the limit here! This is created with Nuxt and Vue.
@@ -28,3 +29,6 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
+=======
+# travelapp-master
+>>>>>>> origin/master
